@@ -155,3 +155,4 @@ function calculate(num1, num2, callBackFunction){
 }
 
 calculate(1, 10, displayAlert);
+calculate(11, 10, displayAlert);
